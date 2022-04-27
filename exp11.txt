@@ -1,0 +1,13 @@
+Step1: create a new local repository in github( https://github.com/chandu-jadhav )
+with valid name
+Step2: then go to your static website
+Step3: then in visual studio code inside terminal do following
+1) git init
+2) git add .
+3) git commit -m &quot;completed&quot;
+4) git remote add origin https://github.com/chandu-jadhav/bike.git
+5) git push -u origin master
+step4: once all git oprations are done then move back to your repository in github go
+into setting then goto pages section on left side
+step5: select there master on place of none and save it
+now you will see following:
